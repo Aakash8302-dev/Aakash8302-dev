@@ -13,14 +13,16 @@
 
 <br />
 
-### Languages and Tools
+### Languages and Tools: 
 <p float="left">
-<img alt="HTML" width="22px" src="https://image.flaticon.com/icons/png/512/1051/1051277.png"> &nbsp;  
-<img alt="CSS" width="22px" src="https://image.flaticon.com/icons/png/512/732/732190.png">
-<img alt="React" width="22px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png">
-<img alt="Nodejs" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png">
-<img alt="MongoDb" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
-<img alt="Javascript" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
+<img alt="HTML" width="25px" src="https://image.flaticon.com/icons/png/512/1051/1051277.png"> &nbsp;  
+<img alt="CSS" width="25px" src="https://image.flaticon.com/icons/png/512/732/732190.png"> &nbsp;  
+<img alt="React" width="25px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png"> &nbsp;  
+<img alt="Nodejs" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"> &nbsp;  
+<img alt="MongoDb" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"> &nbsp;  
+<img alt="Javascript" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"> &nbsp;  
+<img alt="Git" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> &nbsp;  
+<img alt="Git" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"> &nbsp;  
 </p>
 
 [website]: https://aakash8302-dev.github.io/
