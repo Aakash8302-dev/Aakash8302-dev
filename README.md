@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img alt="https://aakash8302-dev.github.io/" width="22px" src="https://image.flaticon.com/icons/png/512/616/616450.png" target="_blank" />][website]
-[<img alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank">][linkedin]
-[<img alt="instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" target="_blank">][instagram]
+[<img  target="_blank" alt="https://aakash8302-dev.github.io/" width="22px" src="https://image.flaticon.com/icons/png/512/616/616450.png" />][website]
+[<img target="_blank" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" >][linkedin]
+[<img target="_blank" alt="instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" >][instagram]
 
 <br />
 
