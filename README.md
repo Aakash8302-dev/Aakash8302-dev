@@ -6,11 +6,10 @@
 - 🎯 posting web development content on [@coding.atlas][codingatlas]
 
 ### Connect with me:
-<span float="left">
-[<img  target="_blank" alt="https://aakash8302-dev.github.io/" width="22px" src="https://image.flaticon.com/icons/png/512/616/616450.png" />][website] &nbsp;  
-[<img target="_blank" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" >][linkedin] &nbsp;  
-[<img target="_blank" alt="instagram" width="22px" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1622368560~hmac=d564eeb7f2485d896d40a55f0d729af8" >][instagram] &nbsp;  
-</span>  
+
+[<img  target="_blank" alt="https://aakash8302-dev.github.io/" width="22px" src="https://image.flaticon.com/icons/png/512/616/616450.png" />[website]
+[<img target="_blank" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" >][linkedin]
+[<img target="_blank" alt="instagram" width="22px" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1622368560~hmac=d564eeb7f2485d896d40a55f0d729af8" >][instagram]
 
 <br />
 
