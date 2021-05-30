@@ -15,7 +15,7 @@
 
 ### Languages and Tools
 <p float="left">
-<img alt="HTML" width="22px" src="https://image.flaticon.com/icons/png/512/1051/1051277.png">
+<img alt="HTML" width="22px" src="https://image.flaticon.com/icons/png/512/1051/1051277.png"> &nbsp;  
 <img alt="CSS" width="22px" src="https://image.flaticon.com/icons/png/512/732/732190.png">
 <img alt="React" width="22px" src="https://image.flaticon.com/icons/png/512/1126/1126012.png">
 <img alt="Nodejs" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png">
