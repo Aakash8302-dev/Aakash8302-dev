@@ -1,10 +1,8 @@
 ### Hi there, I'm [Aakash Armugam][website] 👋
 
 ## I'm a Student 
-- 🏫 I'm currenty in College
-- 🧊 currently learning web development
-- 🎯 posting web development content on [@coding.atlas][codingatlas]
-
+- 🏫 I'm currently in College
+- 
 ### Connect with me:
 
 [<img  target="_blank" alt="https://aakash8302-dev.github.io/" width="22px" src="https://image.flaticon.com/icons/png/512/616/616450.png" />][website]
